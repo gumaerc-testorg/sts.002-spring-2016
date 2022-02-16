@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2261d17c-b87c-733f-e4d7-fee8769e1e77
 ---
@@ -165,7 +168,7 @@ Sylla, Richard. ![This resource may not render correctly in a screen reader.](/i
 {{< tdopen >}}
 
 
-Capitalizing on Lives in the 19th Century, Free and Unfree
+Capitalizing on Lives in the 19{{< sup "th" >}} Century, Free and Unfree
 
 
 {{< tdclose >}}
@@ -187,7 +190,7 @@ Nott, Josiah. "Life Insurance at the South." In _The Commercial Review of the So
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Making Money in 19th Century America
+Making Money in 19{{< sup "th" >}} Century America
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -207,7 +210,7 @@ Fowler, William Worthington. _Ten Years in Wall Street; or, Revelations of Insid
 {{< tdopen >}}
 
 
-Financial Empires and Global Crises in the Late 19th Century
+Financial Empires and Global Crises in the Late 19{{< sup "th" >}} Century
 
 
 {{< tdclose >}}
@@ -247,7 +250,7 @@ Cronon, William. Chapter 3 in _Nature's Metropolis: Chicago and the Great West_.
 {{< tdopen >}}
 
 
-Other People's Money?: Big Banks and Big Bankers in the Early 20th Century
+Other People's Money?: Big Banks and Big Bankers in the Early 20{{< sup "th" >}} Century
 
 
 {{< tdclose >}}
@@ -375,7 +378,7 @@ Fourcade, Marion, and Rakesh Khurana_._ "[From Social Control to Financial Econo
 {{< tdopen >}}
 
 
-Financialization, Deregulation, and Globalization at the End of the 20th Century
+Financialization, Deregulation, and Globalization at the End of the 20{{< sup "th" >}} Century
 
 
 {{< tdclose >}}

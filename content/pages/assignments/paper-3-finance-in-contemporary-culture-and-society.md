@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 title: 'Paper 3: Finance in Contemporary Culture and Society'
 uid: 32b8aa53-4ba7-4598-4fb1-d28159083e01

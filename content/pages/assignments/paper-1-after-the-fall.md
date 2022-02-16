@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 title: 'Paper 1: After the Fall'
 uid: 6d1c419e-c12b-5e00-9d9c-b642121a4b1d

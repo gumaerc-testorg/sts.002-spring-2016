@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, exams, and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 744b3593-b527-947e-d539-dd15a21ce815
 ---
@@ -123,7 +127,7 @@ Financing a New Nation: The U.S. "Financial Revolution" of the 1790s
 {{< tdopen >}}
 
 
-Capitalizing on Lives in the 19th Century, Free and Unfree
+Capitalizing on Lives in the 19{{< sup "th" >}} Century, Free and Unfree
 
 _Recitation 3: Hamilton vs Logan; Finance and Slavery_
 
@@ -139,7 +143,7 @@ _Recitation 3: Hamilton vs Logan; Finance and Slavery_
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Making Money in 19th Century America
+Making Money in 19{{< sup "th" >}} Century America
 {{< tdclose >}}
 {{< tdopen >}}
 Paper 1 due
@@ -153,7 +157,7 @@ Paper 1 due
 {{< tdopen >}}
 
 
-Financial Empires and Global Crises in the Late 19th Century
+Financial Empires and Global Crises in the Late 19{{< sup "th" >}} Century
 
 _Recitation 4: Andrew Jackson; Fowler on Wall Street; Lawson on "Gaucho Banking"_
 
@@ -183,7 +187,7 @@ Pricing the Future: Chicago and the Commodities Trade, 1850-1900
 {{< tdopen >}}
 
 
-Other People's Money?: Big Banks and Big Bankers in the Early 20th Century
+Other People's Money?: Big Banks and Big Bankers in the Early 20{{< sup "th" >}} Century
 
 _Recitation 5: "A Corner on Wheat" (film); Conant vs Brandeis on Bankers_
 
@@ -279,7 +283,7 @@ Paper 2 due
 {{< tdopen >}}
 
 
-Financialization and Deregulation at the End of the 20th Century
+Financialization and Deregulation at the End of the 20{{< sup "th" >}} Century
 
 _Recitation 8: Friedman, Jensen, Clinton_
 
@@ -304,7 +308,7 @@ In-class Exam
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-_**Part IV: Finance and Its Futures in the 21st Century**_
+_**Part IV: Finance and Its Futures in the 21{{< sup "st" >}} Century**_
 {{< tdclose >}}
 
 {{< trclose >}}

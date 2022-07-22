@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on an assignment to self-diagnose and the
+  rewrite either the first or second paper written for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 title: Reflect, Rethink, Rewrite
 uid: 5c7374fa-c6ac-0399-1be0-e8d38445b993

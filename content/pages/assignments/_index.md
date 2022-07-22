@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the writing assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 ---
@@ -9,13 +13,13 @@ STS.002 is a CI-H ![](/images/educator/icon-question-cih.png) course, so exercis
 Due Dates
 ---------
 
-[Paper 1: Due class 8]({{< baseurl >}}/pages/assignments/paper-1-after-the-fall)
+{{% resource_link 6d1c419e-c12b-5e00-9d9c-b642121a4b1d "Paper 1: Due class 8" %}}
 
-[Paper 2: Due class 15]({{< baseurl >}}/pages/assignments/paper-2-finances-role-in-society)
+{{% resource_link 23f504d3-b156-03b4-8b77-ae970b20daf5 "Paper 2: Due class 15" %}}
 
-[Rewrite of Paper 1 or 2: Due class 22]({{< baseurl >}}/pages/assignments/reflect-rethink-rewrite)
+{{% resource_link 5c7374fa-c6ac-0399-1be0-e8d38445b993 "Rewrite of Paper 1 or 2: Due class 22" %}}
 
-[Paper 3: Due class 26]({{< baseurl >}}/pages/assignments/paper-3-finance-in-contemporary-culture-and-society)
+{{% resource_link 32b8aa53-4ba7-4598-4fb1-d28159083e01 "Paper 3: Due class 26" %}}
 
 Lateness and Extensions
 -----------------------

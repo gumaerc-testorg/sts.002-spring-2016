@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the first writing assignment for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 title: 'Paper 1: After the Fall'
 uid: 6d1c419e-c12b-5e00-9d9c-b642121a4b1d
@@ -33,8 +39,8 @@ Primary Source Texts
 
 The five primary source texts that you will use in this paper are as follows.
 
-1.  Swift, Jonathan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Bubble: A Poem (PDF)_]({{< baseurl >}}/resources/mitsts_002s16_swiftbubble). Printed by Benj. Tooke, 1721.
+1.  Swift, Jonathan. {{% resource_link 8b7d88ea-50fb-a7b1-9cf3-79d326d36a46 "_The Bubble: A Poem (PDF)_" %}}. Printed by Benj. Tooke, 1721.
 2.  Trenchard, John, and Thomas Gordon. [_Cato's Letters or Essays on Liberty, Civil and Religious, and Other Important Subjects : Four Volumes in Two Vol. 1_](http://oll.libertyfund.org/titles/trenchard-catos-letters-vol-1-november-5-1720-to-june-17-1721-lf-ed). Edited by Ronald Hamowy. Liberty Fund, 1995, pp. 40–63. ISBN: 9780865971295.
-3.  Telltruth, Timothy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Matter of Fact, or, The Arraignment and Tryal of the Di—rs of the S—S—Company (PDF)_]({{< baseurl >}}/resources/mitsts_002s16_telltruth). Printed for John Applebee, W. Boreham, and A. Dodd, 1720. (selections)
-4.  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Secret History of the South Sea Scheme." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_secrthistry) In _A Collection of Several Pieces of Mr. John Toland, Now First Publish'd from His Original Manuscripts_…, Vol. 1. Printed for J. Peele, 1726, pp. 404–47. (selections)
-5.  Anderson, Adam. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[An Historical and Chronological Deduction of the Origin of Commerce, from the Earliest Accounts to the Present Time (PDF - 1.2MB)]({{< baseurl >}}/resources/mitsts_002s16_anderson)_, vol. 1. Printed for A. Millar et al., 1764, pp. 284–97.
+3.  Telltruth, Timothy. {{% resource_link 92924dfb-8ec3-be3b-70d0-5fe338f6c5af "_Matter of Fact, or, The Arraignment and Tryal of the Di—rs of the S—S—Company (PDF)_" %}}. Printed for John Applebee, W. Boreham, and A. Dodd, 1720. (selections)
+4.  {{% resource_link fca2d047-68d3-eaad-19eb-593a1effde60 "\"The Secret History of the South Sea Scheme.\" (PDF)" %}} In _A Collection of Several Pieces of Mr. John Toland, Now First Publish'd from His Original Manuscripts_…, Vol. 1. Printed for J. Peele, 1726, pp. 404–47. (selections)
+5.  Anderson, Adam. _{{% resource_link c2b659ac-7555-203b-a273-2fc35ec981ba "An Historical and Chronological Deduction of the Origin of Commerce, from the Earliest Accounts to the Present Time (PDF - 1.2MB)" %}}_, vol. 1. Printed for A. Millar et al., 1764, pp. 284–97.

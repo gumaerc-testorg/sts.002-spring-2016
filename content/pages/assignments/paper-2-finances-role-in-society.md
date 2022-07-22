@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the second writing assignment for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 03e39e4f-97f9-1ee4-1b3b-5c9fb5555a58
 title: 'Paper 2: Finance''s Role in Society'
 uid: 23f504d3-b156-03b4-8b77-ae970b20daf5

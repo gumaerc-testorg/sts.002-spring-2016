@@ -5,6 +5,7 @@ file: /courses/sts-002-finance-and-society-spring-2016/8b7d88ea50fba7b19cf379d32
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Bubble (1721)
 uid: 8b7d88ea-50fb-a7b1-9cf3-79d326d36a46
 ---
 This resource contains information regarding The Bubble: A Poem.
-

@@ -13,10 +13,10 @@ image_metadata:
   credit: This image is in the public domain.
   image-alt: A painting of a courtyard known as the "Old Exchange" in Amsterdam.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-002s16-th.jpg
 uid: 878c0d0e-759d-b6f2-712e-9da134e08be2
 ---
 "The Courtyard of the Beurs in Amsterdam," 1653, by Dutch painter Emanuel de Witte. This course offers students an introduction to finance through historical and social-scientific perspectives. This image is in the public domain.
-

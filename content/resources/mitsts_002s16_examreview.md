@@ -5,6 +5,7 @@ file: /courses/sts-002-finance-and-society-spring-2016/d8e0778872d1ff6ee4a6b236f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/sts-002-finance-and-society-spring-2016/0e015114cb792369064393486
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: STS.002 Exam ID Prep
 uid: 0e015114-cb79-2369-0643-934865726932
 ---
 This resource contains information regarding Exam ID Prep.
-

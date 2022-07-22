@@ -5,6 +5,7 @@ file: /courses/sts-002-finance-and-society-spring-2016/1ab6b964e6eb364549c0270a5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Gaucho Banking (1891)
 uid: 1ab6b964-e6eb-3645-49c0-270a59fe5fdf
 ---
 This resource contains information regarding Gaucho Banking.
-

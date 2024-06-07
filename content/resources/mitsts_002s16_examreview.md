@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-002-finance-and-society-spring-2016/d8e0778872d1ff6ee4a6b236fea47896_MITSTS_002S16_ExamReview.pdf
+file_size: 390078
 file_type: application/pdf
 learning_resource_types:
 - Exams

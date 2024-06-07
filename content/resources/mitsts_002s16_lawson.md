@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Gaucho Banking.
 file: /courses/sts-002-finance-and-society-spring-2016/1ab6b964e6eb364549c0270a59fe5fdf_MITSTS_002S16_Lawson.pdf
+file_size: 723355
 file_type: application/pdf
 learning_resource_types:
 - Readings

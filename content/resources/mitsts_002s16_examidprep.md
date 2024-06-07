@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Exam ID Prep.
 file: /courses/sts-002-finance-and-society-spring-2016/0e015114cb7923690643934865726932_MITSTS_002S16_ExamIDPrep.pdf
+file_size: 210335
 file_type: application/pdf
 learning_resource_types:
 - Exams

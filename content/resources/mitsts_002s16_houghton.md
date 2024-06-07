@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Collection for the Improvement
   of Husbandry and Trade.
 file: /courses/sts-002-finance-and-society-spring-2016/6ab7b296303e9aa74e76103b63197836_MITSTS_002S16_Houghton.pdf
+file_size: 365315
 file_type: application/pdf
 learning_resource_types:
 - Readings

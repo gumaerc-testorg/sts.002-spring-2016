@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding A Collection of Several
   Pieces of Mr. John Toland, Now First Publish'd from His Original Manuscripts.
-file: /courses/sts-002-finance-and-society-spring-2016/fca2d04768d3eaad19eb593a1effde60_MITSTS_002S16_SecrtHistry.pdf
+file: /ol-ocw-studio-app/courses/sts-002-finance-and-society-spring-2016/fca2d04768d3eaad19eb593a1effde60_MITSTS_002S16_SecrtHistry.pdf
 file_size: 578029
 file_type: application/pdf
 learning_resource_types: []

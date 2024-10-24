@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the political and commercial
   works.
-file: /courses/sts-002-finance-and-society-spring-2016/0f094e3c26ff8b1afb75f548d73016d9_MITSTS_002S16_Davenant.pdf
+file: /ol-ocw-studio-app/courses/sts-002-finance-and-society-spring-2016/0f094e3c26ff8b1afb75f548d73016d9_MITSTS_002S16_Davenant.pdf
 file_size: 502736
 file_type: application/pdf
 learning_resource_types:

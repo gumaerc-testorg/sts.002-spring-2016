@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding The Bubble: A Poem.'
-file: /ol-ocw-studio-app/courses/sts-002-finance-and-society-spring-2016/8b7d88ea50fba7b19cf379d326d36a46_MITSTS_002S16_SwiftBubble.pdf
+file: /courses/sts-002-finance-and-society-spring-2016/8b7d88ea50fba7b19cf379d326d36a46_MITSTS_002S16_SwiftBubble.pdf
 file_size: 206627
 file_type: application/pdf
 learning_resource_types:

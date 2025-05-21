@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding insurance.
-file: /ol-ocw-studio-app/courses/sts-002-finance-and-society-spring-2016/9297d8f83797a48bba051c1a86b127ba_MITSTS_002S16_Garrison.pdf
+file: /courses/sts-002-finance-and-society-spring-2016/9297d8f83797a48bba051c1a86b127ba_MITSTS_002S16_Garrison.pdf
 file_size: 76220
 file_type: application/pdf
 learning_resource_types:

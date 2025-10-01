@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: '"The Courtyard of the Beurs in Amsterdam," 1653, by Dutch painter Emanuel
     de Witte. This course offers students an introduction to finance through historical
-    and social-scientific perspectives. (This [image](https://commons.wikimedia.org/wiki/File:Emanuel_de_Witte_-_The_Courtyard_of_the_Old_Exchange_in_Amsterdam_-_WGA25798.jpg)
-    is in the public domain.)'
+    and social-scientific perspectives. (This {{% resource_link "faa0e4b6-116a-438c-82a8-b8cc3a705463"
+    "image" %}} is in the public domain.)'
   credit: This image is in the public domain.
   image-alt: A painting of a courtyard known as the "Old Exchange" in Amsterdam.
 learning_resource_types: []
